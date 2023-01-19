@@ -12,22 +12,18 @@ body{
 
 header{
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 main {
     margin-bottom: 20px;
+    
 }
 
 
 
 span {
     color: #006CFA;
-}
-
-.nested {
-    background-color: #00E165;
-    border: 1px solid #006CFA ;
-    font-size: 11px;
 }
 
 
@@ -44,9 +40,7 @@ span {
 	padding: 0 calc(var(--gutter-x) / 2);
 }
 
-.container h2 {
-    margin-left: 15px;
-}
+
 
 .row {
 	display: flex;
